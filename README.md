@@ -3,7 +3,7 @@ This project focuses on recognizing hand gesture digits (0-9) using a Convolutio
 
 # Pipeline
 ## Dataset Collection
-The dataset was collected from Kaggle website ['https://www.kaggle.com/datasets/ardamavi/sign-language-digits-dataset/data'](Sign language digit Dataset)
+The dataset was collected from Kaggle website [Sign language digit Dataset](https://www.kaggle.com/datasets/ardamavi/sign-language-digits-dataset/data)
 
 ## EDA
 Analysing the dataset and come with some hypothesis.
